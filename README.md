@@ -1,6 +1,6 @@
 # ridiculous_coding for Godot
 
-Written by John Watson
+Written by John Watson - Edited by Jonathan Hecl
 
 ## What does it do?
 
@@ -9,6 +9,11 @@ It makes your coding experience in Godot 1000x more ridiculous.
 ![Ridiculous](readme-example.gif)
 
 This addon was inspired by [Textreme2 by Ash K](https://ash-k.itch.io/textreme-2). Go buy it!
+
+## What changes in this version?
+
+- Fix disable blips.
+- You can setting the shake incentity.
 
 ## Installation
 
