@@ -15,6 +15,8 @@ This addon was inspired by [Textreme2 by Ash K](https://ash-k.itch.io/textreme-2
 - Fix disable blips.
 - You can setting the shake incentity.
 
+![Settings](settings.png)
+
 ## Installation
 
 1. Create an `addons` directory in your Godot project
