@@ -12,8 +12,8 @@ This addon was inspired by [Textreme2 by Ash K](https://ash-k.itch.io/textreme-2
 
 ## What changes in this version?
 
-- Fix disable blips.
-- You can setting the shake incentity.
+- Fix when Blips is disabled.
+- You can adjust the intensity of the shake.
 
 ![Settings](settings.png)
 
